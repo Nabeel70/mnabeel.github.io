@@ -23,7 +23,7 @@ repository               : "Nabeel70/mnabeel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profiles.png"
+  avatar           : "profile.png"
   name             : "Muhammad Nabeel Amin"
   pronouns         : # example: "she/her"  
   bio              : "Innovative Software Engineer and AI Researcher building production-grade ML, computer vision, and analytics solutions."
