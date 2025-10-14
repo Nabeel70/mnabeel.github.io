@@ -1,14 +1,20 @@
-title: "Python & Applied AI Mentor"
+---
+title: "Teaching experience 1"
 collection: teaching
-type: "1:1 Mentorship"
-permalink: /teaching/2020-airclass-mentorship
-venue: "AirClass"
-date: 2020-01-01
-location: "Remote"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-Design and deliver personalized Python, data science, and AI mentorship for learners at AirClass.
+This is a description of a teaching experience. You can use markdown like any other post.
 
-- Curated project-based curricula featuring PyGame, Turtle, and real-world AI case studies.
-- Coached learners on software engineering best practices, debugging strategies, and presenting technical work.
-- Maintained a 4.9/5 learner satisfaction rating across 100+ students.
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======

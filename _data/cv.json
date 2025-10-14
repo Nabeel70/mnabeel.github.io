@@ -1,317 +1,152 @@
 {
   "basics": {
-    "name": "Muhammad Nabeel Amin",
-    "email": "nabeelofficial70@gmail.com",
-    "phone": "(+92) 321 438 2188",
-    "website": "https://nabeel70.github.io",
-    "summary": "Software engineer and AI researcher delivering production-ready ML, computer vision, and analytics solutions with measurable business impact.",
+    "name": "Your Sidebar Name",
+    "email": "none@example.org",
+    "phone": "",
+    "website": "https://academicpages.github.io",
+    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Faisalabad",
-      "countryCode": "PK",
-      "region": "Punjab"
+      "city": "Earth",
+      "countryCode": "US",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "nabeel70",
-        "url": "https://www.linkedin.com/in/nabeel70/"
-      },
-      {
-        "network": "GitHub",
-        "username": "Nabeel70",
-        "url": "https://github.com/Nabeel70"
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "0009-0000-2487-6339",
-        "url": "https://orcid.org/0009-0000-2487-6339"
+        "username": "",
+        "url": "http://orcid.org/yourorcidurl"
       },
       {
-        "network": "Twitter",
-        "username": "NabeelAmin70rb",
-        "url": "https://twitter.com/NabeelAmin70rb"
-      },
-      {
-        "network": "Facebook",
-        "username": "Muhammad Nabeel Amin",
-        "url": "https://www.facebook.com/people/Muhammad-Nabeel-Amin/61551334317952/"
+        "network": "GitHub",
+        "username": "academicpages",
+        "url": "https://github.com/academicpages"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Infiniti Software",
-      "position": "Software Engineer (Python / AI / Data Analytics)",
-      "location": "Pakistan (Remote)",
-      "startDate": "2024-10",
-      "endDate": null,
-      "summary": "Delivering production-grade AI solutions across computer vision and analytics use cases.",
-      "highlights": [
-        "Achieved 92% model accuracy and automated up to 80% of repetitive workflows by deploying TensorFlow, PyTorch, YOLOv5, and OpenCV pipelines.",
-        "Built scalable data pipelines with Tableau and Power BI dashboards, improving data accessibility and cutting processing time by 60%."
-      ]
-    },
-    {
-      "name": "AirClass",
-      "position": "Coding Tutor",
-      "location": "Remote",
-      "startDate": "2020-01",
-      "endDate": "2025-07",
-      "summary": "Mentored students in Python programming, AI fundamentals, and software craftsmanship.",
-      "highlights": [
-        "Guided 100+ students through project-based learning paths in Python, PyGame, and Turtle.",
-        "Coached learners to build real-world applications emphasizing problem decomposition and debugging discipline."
-      ]
-    },
-    {
-      "name": "Riphah International Colleges & University",
-      "position": "Associate Researcher (Computer Vision)",
-      "location": "Faisalabad, Pakistan",
-      "startDate": "2023-10",
-      "endDate": "2024-10",
-      "summary": "Led applied AI research on deep learning for precision agriculture.",
-      "highlights": [
-        "Designed CNN architectures tailored to crop classification and yield prediction, reaching 99.7% training accuracy.",
-        "Translated research insights into actionable implementation guidance for agricultural stakeholders."
-      ]
-    },
-    {
-      "name": "Optemastech",
-      "position": "AI Engineer",
-      "location": "London, United Kingdom (Remote)",
-      "startDate": "2021-09",
-      "endDate": "2023-10",
-      "summary": "Developed medical imaging and computer vision solutions for health-tech initiatives.",
-      "highlights": [
-        "Built a 3D medical image segmentation pipeline using TensorFlow U-Net, reducing diagnostic processing time while improving accuracy.",
-        "Optimized OpenCV, Keras, and CUDA workloads to cut compute resource usage by 12% across multiple projects."
-      ]
-    },
-    {
-      "name": "Bright Network",
-      "position": "Technology Intern (Computer Vision)",
-      "location": "London, United Kingdom",
-      "startDate": "2020-06",
-      "endDate": "2020-07",
-      "summary": "Focused on real-time facial recognition and identity verification systems.",
-      "highlights": [
-        "Developed Python/OpenCV pipelines for facial recognition and detection.",
-        "Improved model accuracy by 90% through facial landmark extraction and histogram-based filtering."
-      ]
-    }
-  ],
+  "work": [],
   "education": [
     {
-      "institution": "Government College University Faisalabad",
-      "area": "B.Sc. (Hons) Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2017-09",
-      "endDate": "2021-09",
-      "gpa": "3.23/4.0",
-      "courses": [
-        "Thesis: AI-Driven Privacy Preservation in Real-Time Video Surveillance",
-        "PEEF Scholarship Recipient"
-      ]
+      "institution": "GitHub University",
+      "area": "Ph.D in Version Control Theory",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2018",
+      "gpa": null,
+      "courses": []
     },
     {
-      "institution": "Government Degree College Lathianwala",
-      "area": "Intermediate in Computer Science (ICS)",
-      "studyType": "Intermediate",
-      "startDate": "2015-09",
-      "endDate": "2017-08",
+      "institution": "GitHub University",
+      "area": "M.S. in Jekyll",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2014",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "GitHub University",
+      "area": "B.S. in GitHub",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [
-    {
-      "name": "Machine Learning & AI",
-      "level": "Advanced",
-      "keywords": [
-        "TensorFlow",
-        "PyTorch",
-        "YOLOv5",
-        "Transformers",
-        "OpenCV",
-        "Mediapipe",
-        "Dlib",
-        "Scikit-learn",
-        "Computer Vision",
-        "Deep Learning"
-      ]
-    },
-    {
-      "name": "Data & Analytics",
-      "level": "Advanced",
-      "keywords": [
-        "NumPy",
-        "Pandas",
-        "SciPy",
-        "Statsmodels",
-        "Matplotlib",
-        "Seaborn",
-        "Plotly",
-        "Tableau",
-        "Power BI",
-        "EDA"
-      ]
-    },
-    {
-      "name": "Software Engineering",
-      "level": "Advanced",
-      "keywords": [
-        "Python",
-        "MATLAB",
-        "SQL",
-        "Git",
-        "CI/CD",
-        "REST APIs"
-      ]
-    },
-    {
-      "name": "Databases",
-      "level": "Intermediate",
-      "keywords": [
-        "MySQL",
-        "PostgreSQL",
-        "SQLite",
-        "MongoDB"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Urdu",
-      "fluency": "Native"
-    },
-    {
-      "language": "English",
-      "fluency": "C1"
-    },
-    {
-      "language": "Hindi",
-      "fluency": "C1 (spoken), A2 (reading)"
-    },
-    {
-      "language": "Chinese",
-      "fluency": "A1"
-    }
-  ],
+  "skills": [],
+  "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "12 Virtual Memory Management",
-      "publisher": "Securing the Digital Realm: Advances in Hardware and Software Security, Communication, and Forensics",
-      "releaseDate": "2025",
-      "website": "",
-      "summary": "Explores resilient virtual memory strategies for modern secure computing stacks."
+      "name": "Paper Title Number 1",
+      "publisher": "Journal 1",
+      "releaseDate": "2009-10-01",
+      "website": "http://academicpages.github.io/files/paper1.pdf",
+      "summary": "This paper is about the number 1. The number 2 is left for future work."
     },
     {
-      "name": "Efficient ML Technique for Brain Tumor Segmentation and Detection Using CNNs",
-      "publisher": "Spectrum of Engineering Sciences",
-      "releaseDate": "2025",
-      "website": "",
-      "summary": "Presents a CNN-driven approach for MRI-based tumor segmentation with improved diagnostic precision."
+      "name": "Paper Title Number 2",
+      "publisher": "Journal 1",
+      "releaseDate": "2010-10-01",
+      "website": "http://academicpages.github.io/files/paper2.pdf",
+      "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
-      "name": "Reliable Federated Learning (RDL) Assisted Intrusion Detection and Classification Using SSL/TLS",
-      "publisher": "Annual Methodological Archive Research Review",
-      "releaseDate": "2025",
-      "website": "https://amresearchreview.com/index.php/Journal/article/view/437",
-      "summary": "Introduces a secure federated learning pipeline for intrusion detection across distributed networks."
+      "name": "Paper Title Number 3",
+      "publisher": "Journal 1",
+      "releaseDate": "2015-10-01",
+      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "summary": "This paper is about the number 3. The number 4 is left for future work."
     },
     {
-      "name": "Enhanced IoT Network Security for Intrusion Detection Using Machine Learning",
-      "publisher": "Annual Methodological Archive Research Review",
-      "releaseDate": "2025-08-13",
-      "website": "",
-      "summary": "Designs ML-driven IDS models to harden IoT networks against emerging threats."
-    },
-    {
-      "name": "Intelligence-based Self-Healing Network Design",
-      "publisher": "Annual Methodological Archive Research Review",
-      "releaseDate": "2025-08-12",
-      "website": "",
-      "summary": "Automates incident response for IoT breaches through adaptive self-healing strategies."
-    },
-    {
-      "name": "Anomaly Detection in IoT",
-      "publisher": "Contemporary Journal of Social Science Review",
-      "releaseDate": "2024",
-      "website": "",
-      "summary": "Reports on anomaly detection methodologies tailored to IoT ecosystems."
-    },
-    {
-      "name": "Deep Neural Networks Based Crop Classification in Agriculture Applications Using CropDeep Dataset",
-      "publisher": "Authorea Preprints",
-      "releaseDate": "2024",
-      "website": "",
-      "summary": "Demonstrates CNN architectures for precision agriculture using multispectral datasets."
-    },
-    {
-      "name": "Enhanced Deep Learning Based Precision Agriculture",
-      "publisher": "Journal of Mechanics of Continua and Mathematical Sciences",
-      "releaseDate": "2024-09",
-      "website": "https://doi.org/10.26782/jmcms.2024.09.00014",
-      "summary": "Improves crop recommendation accuracy through CNN-powered decision support systems."
+      "name": "Paper Title Number 4",
+      "publisher": "GitHub Journal of Bugs",
+      "releaseDate": "2024-02-17",
+      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "summary": "This paper is about fixing template issue #693."
     }
   ],
   "presentations": [
     {
-      "name": "Symposium on Indigenous Innovations",
-      "event": "Research Week 2024",
-      "date": "2024-11",
-      "location": "Superior University",
-      "description": "Presented research contributions on indigenous innovation in AI-driven solutions."
+      "name": "Talk 1 on Relevant Topic in Your Field",
+      "event": "UC San Francisco, Department of Testing",
+      "date": "2012-03-01",
+      "location": "San Francisco, CA, USA",
+      "description": ""
     },
     {
-      "name": "International Conference on Computing & Emerging Technologies (ICCET 2023)",
-      "event": "Superior University",
-      "date": "2023-05",
-      "location": "Lahore, Pakistan",
-      "description": "Presented peer-reviewed work on advanced AI techniques for network security."
+      "name": "Tutorial 1 on Relevant Topic in Your Field",
+      "event": "UC-Berkeley Institute for Testing Science",
+      "date": "2013-03-01",
+      "location": "Berkeley, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Talk 2 on Relevant Topic in Your Field",
+      "event": "London School of Testing",
+      "date": "2014-02-01",
+      "location": "London, UK",
+      "description": ""
+    },
+    {
+      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
+      "event": "Testing Institute of America 2014 Annual Conference",
+      "date": "2014-03-01",
+      "location": "Los Angeles, CA, USA",
+      "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Python Programming & Applied AI Mentorship",
-      "institution": "AirClass",
-      "date": "2020-2025",
-      "role": "Coding Tutor",
-      "description": "Designed project-based curricula and delivered 1:1 coaching for 100+ learners."
+      "course": "Teaching experience 1",
+      "institution": "University 1, Department",
+      "date": "2014-01-01",
+      "role": "Undergraduate course",
+      "description": ""
+    },
+    {
+      "course": "Teaching experience 2",
+      "institution": "University 1, Department",
+      "date": "2015-01-01",
+      "role": "Workshop",
+      "description": ""
     }
   ],
   "portfolio": [
     {
-      "name": "Medical Image Segmentation Using U-Net & Optimization",
-      "category": "Computer Vision",
-      "date": "2025",
+      "name": "Portfolio item number 1",
+      "category": "portfolio",
+      "date": "",
       "url": "",
-      "description": "Hybrid U-Net and optimization workflow achieving 92% segmentation accuracy on clinical datasets."
-    },
-    {
-      "name": "Drowsiness Detection for Drivers",
-      "category": "Computer Vision",
-      "date": "2025",
-      "url": "",
-      "description": "Real-time fatigue monitoring with OpenCV, Dlib, and lightweight ML classifiers."
-    },
-    {
-      "name": "Autonomous Vehicle Object Detection",
-      "category": "Computer Vision",
-      "date": "2022",
-      "url": "",
-      "description": "YOLO-based perception stack for low-visibility autonomous driving scenarios."
-    },
-    {
-      "name": "Semantic-Aware Image Fusion",
-      "category": "Computer Vision",
-      "date": "2021",
-      "url": "",
-      "description": "Multispectral fusion pipeline (MFNet) enhancing object detection in adverse environments."
+      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
     }
   ]
 }

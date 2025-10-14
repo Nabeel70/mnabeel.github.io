@@ -1,14 +1,20 @@
-title: "Microsoft Learn Ambassador Workshops"
+---
+title: "Teaching experience 2"
 collection: teaching
-type: "Community Workshops"
-permalink: /teaching/2021-microsoft-ambassador
-venue: "GC University Faisalabad"
-date: 2021-01-01
-location: "Faisalabad, Pakistan"
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
-Led Microsoft Learn Ambassador initiatives to expand technical literacy and student empowerment.
+This is a description of a teaching experience. You can use markdown like any other post.
 
-- Facilitated weekly coordination sessions and delivered hands-on workshops covering Azure, Power Platform, and AI fundamentals.
-- Acted as liaison between Microsoft and the local student community, surfacing feedback and co-creating solutions.
-- Organized hack-style events that brought 200+ students into the Microsoft ecosystem with practical project experience.
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======

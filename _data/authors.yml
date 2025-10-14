@@ -1,12 +1,18 @@
 # Authors
 
-"Muhammad Nabeel Amin":
-  name        : "Muhammad Nabeel Amin"
-  uri         : "https://nabeel70.github.io"
-  email       : "nabeelofficial70@gmail.com"
-  bio         : "Software Engineer and AI Researcher delivering ML, computer vision, and analytics solutions."
-  avatar      : "profiles.png"
-  twitter     : "NabeelAmin70rb"
-  linkedin    : "nabeel70"
-  github      : "Nabeel70"
-  orcid       : "https://orcid.org/0009-0000-2487-6339"
+Name Name:
+  name        : "Name Name"
+  uri         : "http://name.com"
+  email       : "name@name.com"
+  bio         : "This is the first name."
+  avatar      : "bio-photo-2.jpg"
+  twitter     : "name"
+  google_plus : "Name"
+
+Name2 Name2:
+  name        : "Name2 Name2"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
