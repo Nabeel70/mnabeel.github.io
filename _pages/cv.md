@@ -87,11 +87,14 @@ Honours and awards
 
 Professional certifications
 ======
-* See live updates via the LinkedIn badge on the [About page](/).
+* See live updates via the LinkedIn 
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nabeel70/details/certifications/">LinkedIn Certifications</a>
+(/).
 
 Language skills
 ======
 * Urdu — Native  
 * English — C1 (Listening, Reading, Speaking, Writing) Certified with TOEFL IBT Score: 101/120 
-* Hindi — C2 Listening, A2 Reading, C1 Speaking, C1 Interaction, A2 Writing  
+* Punjabi — C2 across all competencies 
+* Saraiki — C2 across all competencies 
 * Chinese — A1 across all competencies
