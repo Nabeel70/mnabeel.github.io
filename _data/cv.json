@@ -1,152 +1,417 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Muhammad Nabeel Amin",
+    "label": "Software Engineer & AI Researcher",
+    "email": "nabeelofficial70@gmail.com",
+    "phone": "(+92) 321 4382188",
+    "website": "https://github.com/Nabeel70",
+    "summary": "Innovative Software Engineer and AI Researcher with 4+ years of experience building high-impact machine learning, computer vision, and data analytics solutions that deliver 90%+ accuracy and measurable operational gains.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Faisalabad",
+      "countryCode": "PK",
+      "region": "Punjab"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "network": "Linkedin",
+        "url": "https://www.linkedin.com/in/nabeel70/"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "Github",
+        "url": "https://github.com/Nabeel70"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "Orcid",
+        "url": "https://orcid.org/0009-0000-2487-6339"
+      },
+      {
+        "network": "Twitter",
+        "url": "https://twitter.com/NabeelAmin70rb"
+      },
+      {
+        "network": "Facebook",
+        "url": "https://www.facebook.com/people/Muhammad-Nabeel-Amin/61551334317952/"
       }
     ]
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Government College University, Faisalabad",
+      "area": "B.S. Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2017-09",
+      "endDate": "2021-09",
+      "gpa": "3.23/4.0",
+      "summary": "Fully funded PEEF Scholar and graduating with a thesis on AI-driven privacy preservation in real-time surveillance.",
+      "courses": [
+        "AI-Driven Privacy Preservation in Real-Time Video Surveillance (Thesis)"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Government Degree College, Lathianwala",
+      "area": "Intermediate in Computer Science (ICS)",
+      "studyType": "Intermediate",
+      "startDate": "2015-09",
+      "endDate": "2017-08",
+      "summary": "",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "work": [
+    {
+      "name": "Infiniti Software",
+      "position": "Software Engineer (Python / AI / Data Analytics)",
+      "location": "Pakistan",
+      "startDate": "2024-10",
+      "endDate": "",
+      "summary": "Delivering production-ready AI, analytics, and automation solutions for enterprise clients.",
+      "highlights": [
+        "Architected end-to-end AI pipelines with TensorFlow, PyTorch, YOLOv5, and OpenCV, sustaining up to 92% model accuracy.",
+        "Built scalable data pipelines and live dashboards with Tableau and Power BI, cutting data processing time by 60%.",
+        "Automated repetitive analytics workloads, improving task automation rates by 80%."
+      ]
+    },
+    {
+      "name": "AirClass",
+      "position": "Coding Tutor",
+      "location": "Remote, Singapore",
+      "startDate": "2020-01",
+      "endDate": "2025-07",
+      "summary": "Coaching learners worldwide through hands-on Python and AI curricula.",
+      "highlights": [
+        "Mentored 100+ students via interactive, project-based Python and AI lessons.",
+        "Guided learners in building real-world applications with PyGame and Turtle to reinforce computational thinking."
+      ]
+    },
+    {
+      "name": "Riphah International Colleges & University",
+      "position": "Associate Researcher",
+      "location": "Faisalabad, Pakistan",
+      "startDate": "2023-10",
+      "endDate": "2024-10",
+      "summary": "Led applied AI research projects focused on precision agriculture and CNN optimization.",
+      "highlights": [
+        "Designed crop classification and yield prediction models that achieved 99.7% training accuracy.",
+        "Optimized CNN architectures and augmentation strategies to improve deployment robustness."
+      ]
+    },
+    {
+      "name": "Optemastech",
+      "position": "AI Engineer",
+      "location": "Islamabad, Pakistan",
+      "startDate": "2021-09",
+      "endDate": "2023-10",
+      "summary": "Delivered advanced computer vision platforms for healthcare diagnostics.",
+      "highlights": [
+        "Implemented 3D medical imaging segmentation pipelines using TensorFlow and U-Net to accelerate diagnostics.",
+        "Reduced compute overhead by 12% through CUDA acceleration, model pruning, and pipeline optimization."
+      ]
+    },
+    {
+      "name": "Bright Network UK",
+      "position": "Technology Intern",
+      "location": "London, United Kingdom",
+      "startDate": "2020-06",
+      "endDate": "2020-07",
+      "summary": "Explored applied computer vision for secure identity verification.",
+      "highlights": [
+        "Built a facial recognition prototype with Python and OpenCV, increasing verification accuracy by 90%.",
+        "Enhanced feature extraction via landmark detection and histogram-based filtering."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming & Scripting",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "SQL",
+        "NumPy",
+        "Pandas",
+        "SciPy"
+      ]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "keywords": [
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "YOLOv3/v5",
+        "Transformers",
+        "scikit-learn"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "keywords": [
+        "OpenCV",
+        "U-Net",
+        "Semantic Segmentation",
+        "Object Detection",
+        "Facial Landmark Detection",
+        "Image Fusion"
+      ]
+    },
+    {
+      "name": "Data Science & Visualization",
+      "keywords": [
+        "Tableau",
+        "Power BI",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "Feature Engineering",
+        "Cross-Validation"
+      ]
+    },
+    {
+      "name": "Data Platforms",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "SQLite",
+        "MongoDB",
+        "ETL Pipelines",
+        "Real-time Dashboards"
+      ]
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "12 Virtual Memory Management",
+      "publisher": "Securing the Digital Realm: Advances in Hardware and Software Security, Communication, and Forensics",
+      "releaseDate": "2025-01-01",
+      "summary": "",
+      "url": "",
+      "authors": [
+        "Noor, Hajira",
+        "Khan, Hamayun",
+        "Din, Irfan Ud",
+        "Tariq, Muhammad Imran",
+        "Amin, Muhammad Nabeel",
+        "Fatima, Mehak"
+      ]
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Efficient ML Technique for Brain Tumor Segmentation and Detection using CNNs",
+      "publisher": "Spectrum of Engineering Sciences",
+      "releaseDate": "2025-01-01",
+      "summary": "",
+      "url": "",
+      "authors": [
+        "Ayub, Nasir",
+        "Iqbal, Muhammad Waqas",
+        "Saleem, Muhammad Usman",
+        "Amin, Muhammad Nabeel",
+        "Imran, Osama",
+        "Khan, Hamayun"
+      ]
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Reliable Federated Learning (RDL) Assisted Intrusion Detection Using SSL/TLS",
+      "publisher": "Annual Methodological Archive Research Review",
+      "releaseDate": "2025-01-01",
+      "summary": "",
+      "url": "https://amresearchreview.com/index.php/Journal/article/view/437",
+      "authors": [
+        "Ayub, Nasir",
+        "Yaseen, Asad",
+        "Amin, Muhammad Nabeel",
+        "Rizwan, Syed Muhammad",
+        "Farooq, Irfan",
+        "Hussain, Muhammad Zunnurain"
+      ]
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Enhanced IoT Network Security for Intrusion Detection Using Machine Learning",
+      "publisher": "Annual Methodological Archive Research Review",
+      "releaseDate": "2025-08-13",
+      "summary": "",
+      "url": "",
+      "authors": [
+        "Israr Ahmad",
+        "Muhammad Nabeel Amin",
+        "Khalid Hamid",
+        "Syed Muhammad Rizwan",
+        "Syed Asad Ali Naqvi"
+      ]
+    },
+    {
+      "name": "Intelligence Based Self-Healing Network Design for IoT Security Breaches",
+      "publisher": "Annual Methodological Archive Research Review",
+      "releaseDate": "2025-08-12",
+      "summary": "",
+      "url": "",
+      "authors": [
+        "Muhammad Hamza Akhtar",
+        "Tayyba Jabeen",
+        "Rimsha Aziz",
+        "Muhammad Nabeel Amin",
+        "Syed Muhammad Rizwan",
+        "Khalid Hamid"
+      ]
+    },
+    {
+      "name": "Anomaly Detection in IoT",
+      "publisher": "Contemporary Journal of Social Science Review",
+      "releaseDate": "2024-01-01",
+      "summary": "",
+      "url": "",
+      "authors": [
+        "Mehboob, Ammar",
+        "Zahra, Syeda Aqsa",
+        "Amin, Muhammad Nabeel",
+        "Shabbir, Hamza",
+        "Naqvi, Asad"
+      ]
+    },
+    {
+      "name": "Deep Neural Networks Based Crop Classification in Agriculture Applications Using CropDeep Dataset",
+      "publisher": "Authorea Preprints",
+      "releaseDate": "2024-01-01",
+      "summary": "",
+      "url": "",
+      "authors": [
+        "Amin, Muhammad Nabeel",
+        "Memon, Sufyan Ali",
+        "Ali, Ahmed",
+        "Others"
+      ]
+    },
+    {
+      "name": "Enhanced Deep Learning Based Precision Agriculture for Crop Recommendation Accuracy",
+      "publisher": "Journal of Mechanics of Continua and Mathematical Sciences",
+      "releaseDate": "2024-09-01",
+      "summary": "",
+      "url": "",
+      "authors": [
+        "Amin, Muhammad Nabeel",
+        "Memon, Sufyan",
+        "Ali, Ahmed",
+        "Khan, Hamayun",
+        "Joshi, Ravi",
+        "Rana, M. Tariq A.",
+        "Alsaawy, Y."
+      ]
+    },
+    {
+      "name": "Virtual Memory Management Techniques",
+      "publisher": "Securing the Digital Realm",
+      "releaseDate": "2024-01-01",
+      "summary": "",
+      "url": "",
+      "authors": [
+        "Noor, Hajira",
+        "Khan, Hamayun",
+        "Din, Irfan Ud",
+        "Tariq, Muhammad Imran",
+        "Amin, Muhammad Nabeel",
+        "Fatima, Mehak"
+      ]
     }
   ],
-  "presentations": [
+  "talks": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Symposium on Indigenous Innovations",
+      "event": "Research Week 2024",
+      "date": "2024-11",
+      "location": "Superior University",
+      "description": "Presented applied AI innovations and received recognition for research leadership.",
+      "url": "https://drive.google.com/file/d/1TqreNvSYmue-ejVTJGsGwo9V1uYyVqMx/view?usp=sharing"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "International Conference on Computing & Emerging Technologies (ICCET 2023)",
+      "event": "Conference Presentation",
+      "date": "2023-05",
+      "location": "Superior University",
+      "description": "Delivered conference session on AI-driven security systems for IoT infrastructures.",
+      "url": "https://drive.google.com/file/d/1atMo4sM25z0iRm8cSjQUscVJ6Pmk6bj-/view?usp=sharing"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Python & AI Fundamentals",
+      "institution": "AirClass",
+      "role": "Coding Tutor",
+      "date": "2025",
+      "description": "Delivered interactive lessons on Python, ML foundations, and project-based AI applications for global learners."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Medical Image Segmentation Using U-Net",
+      "category": "Computer Vision",
+      "date": "2025-05",
+      "description": "Delivered 88–92% accuracy in complex medical image segmentation by combining U-Net and mathematical optimization.",
+      "url": ""
+    },
+    {
+      "name": "Drowsiness Detection for Drivers",
+      "category": "Safety AI",
+      "date": "2025-01",
+      "description": "Built real-time drowsiness detection with OpenCV, Dlib, and ML classifiers, achieving 92% accuracy.",
+      "url": ""
+    },
+    {
+      "name": "Object Detection for Autonomous Vehicles",
+      "category": "Autonomous Systems",
+      "date": "2022-04",
+      "description": "Implemented YOLO and CNN-based pipelines delivering 90%+ accuracy in low-visibility scenarios.",
+      "url": ""
+    },
+    {
+      "name": "Real-time Semantic-Aware Image Fusion",
+      "category": "Computer Vision",
+      "date": "2021-07",
+      "description": "Integrated multispectral MFNet data for 95% fusion accuracy to enhance perception in low-visibility environments.",
+      "url": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "PEEF Scholarship Holder (BSCS)",
+      "date": "2017",
+      "awarder": "Government of Punjab, Pakistan",
+      "summary": "Awarded fully funded PEEF scholarship for academic excellence (Top 5%)."
+    },
+    {
+      "title": "Google CloudSeekho Season 5 Winner",
+      "date": "2023",
+      "awarder": "Google",
+      "summary": "Earned 19 Google Cloud badges and advanced expertise across AI labs and computer vision tracks."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Urdu",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "C1"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "C2 Listening / A2 Reading / C1 Speaking"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "A1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Applied Computer Vision"
+    },
+    {
+      "name": "Federated Learning"
+    },
+    {
+      "name": "Healthcare AI"
     }
   ]
 }

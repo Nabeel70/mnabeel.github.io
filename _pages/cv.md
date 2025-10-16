@@ -89,7 +89,7 @@ Professional certifications
 ======
 * See live updates via the LinkedIn 
   <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nabeel70/details/certifications/">LinkedIn Certifications</a>
-(/).
+
 
 Language skills
 ======
