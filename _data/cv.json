@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Muhammad Nabeel Amin",
+    "email": "nabeelofficial70@gmail.com",
+    "phone": "(+92) 3214382188",
+    "website": "https://nabeel70.github.io",
+    "summary": "Innovative Software Engineer and AI Researcher with 4+ years of expertise in building high-impact machine learning, computer vision, and data analytics solutions. Proven ability to deliver scalable Python-based AI applications, achieving over 90% accuracy and driving operational efficiency by 40%+. Skilled at transforming complex data into strategic insights using advanced analytics and visualisation tools. Passionate about advancing AI through research and practical, results-driven software development.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Faisalabad",
+      "countryCode": "PK",
+      "region": "Punjab"
     },
     "profiles": [
       {
@@ -21,46 +21,138 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0000-2487-6339"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Nabeel70",
+        "url": "https://github.com/Nabeel70"
+      },
+	  {
+        "network": "LinkedIn",
+        "username": "nabeel70",
+        "url": "https://www.linkedin.com/in/nabeel70/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Infiniti Software",
+      "position": "Software Engineer (Python / AI / Data Analytics)",
+      "website": "",
+      "startDate": "2024-10-01",
+      "endDate": "Present",
+      "summary": "Delivered end-to-end AI solutions using Python, TensorFlow, PyTorch, and YOLOv5/OpenCV for ML/DL and computer vision tasks, achieving up to 92% model accuracy and 80% task automation. Engineered scalable data pipelines and built real-time dashboards with Tableau and Power BI, improving data accessibility and reducing processing time by 60%.",
+      "highlights": []
+    },
+    {
+      "company": "Airclass",
+      "position": "Coding Tutor",
+      "website": "",
+      "startDate": "2020-01-01",
+      "endDate": "2025-07-01",
+      "summary": "Instructed over 100+ students in Python programming and foundational AI concepts through interactive, project-based learning. Coached students in building real-world applications using PyGame and Turtle, fostering creativity and practical problem-solving skills.",
+      "highlights": []
+    },
+    {
+      "company": "Riphah International Colleges & University",
+      "position": "Associate Researcher",
+      "website": "",
+      "startDate": "2023-10-01",
+      "endDate": "2024-10-31",
+      "summary": "Led applied AI research in Computer Vision and Convolutional Neural Networks (CNNs) for precision agriculture, designing models tailored for crop classification and yield prediction. Achieved 99.7% training accuracy using optimized CNN architectures, significantly enhancing model performance on agricultural datasets.",
+      "highlights": []
+    },
+    {
+      "company": "Optemastech",
+      "position": "AI Engineer",
+      "website": "",
+      "startDate": "2021-09-01",
+      "endDate": "2023-10-01",
+      "summary": "Led the development of a 3D medical image segmentation pipeline using U-Net architecture with TensorFlow, achieving precise region mapping and reducing diagnostic processing time. Optimized computational efficiency and resource usage by 12% across multiple computer vision projects, leveraging tools such as OpenCV, Keras, and CUDA-enabled acceleration.",
+      "highlights": []
+    },
+    {
+      "company": "Bright Network, UK",
+      "position": "Technology Intern",
+      "website": "",
+      "startDate": "2020-06-01",
+      "endDate": "2020-07-03",
+      "summary": "Designed and implemented a facial recognition system using Python and OpenCV, focusing on real-time detection and identity verification. Enhanced model performance by 90% through advanced feature extraction techniques, including facial landmark detection and histogram-based filtering.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Government College University, Faisalabad",
+      "area": "Bachelor of Science in Computer Science (BSCS)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "startDate": "2017-09-01",
+      "endDate": "2021-09-01",
+      "gpa": "3.23/4.0",
+      "courses": [
+        "Thesis: AI-Driven Privacy Preservation in Real-Time Video Surveillance"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Government Degree College, Lathianwala",
+      "area": "Intermediate (I.C.S) Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2015-09-01",
+      "endDate": "2017-08-30",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Data Science & Machine Learning",
+      "level": "",
+      "keywords": [
+        "Numpy",
+        "Pandas",
+        "Scikit-learn",
+        "Scipy",
+        "OpenCV",
+        "TensorFlow",
+        "PyTorch",
+        "YOLOv3/v5",
+        "Mediapipe",
+        "U-Net",
+        "Transformers"
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "level": "",
+      "keywords": [
+        "Tableau",
+        "Power BI",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "SQLite",
+        "MongoDB"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
