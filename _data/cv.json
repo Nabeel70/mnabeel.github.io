@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Muhammad Nabeel Amin",
-    "email": "nabeelofficial70@gmail.com",
-    "phone": "(+92) 3214382188",
-    "website": "https://nabeel70.github.io",
-    "summary": "Innovative Software Engineer and AI Researcher with 4+ years of expertise in building high-impact machine learning, computer vision, and data analytics solutions. Proven ability to deliver scalable Python-based AI applications, achieving over 90% accuracy and driving operational efficiency by 40%+. Skilled at transforming complex data into strategic insights using advanced analytics and visualisation tools. Passionate about advancing AI through research and practical, results-driven software development.",
+    "name": "Your Sidebar Name",
+    "email": "none@example.org",
+    "phone": "",
+    "website": "https://academicpages.github.io",
+    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Faisalabad",
-      "countryCode": "PK",
-      "region": "Punjab"
+      "city": "Earth",
+      "countryCode": "US",
+      "region": ""
     },
     "profiles": [
       {
@@ -21,197 +21,77 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/0009-0000-2487-6339"
+        "url": "http://orcid.org/yourorcidurl"
       },
       {
         "network": "GitHub",
-        "username": "Nabeel70",
-        "url": "https://github.com/Nabeel70"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "nabeel70",
-        "url": "https://www.linkedin.com/in/nabeel70/"
+        "username": "academicpages",
+        "url": "https://github.com/academicpages"
       }
     ]
   },
-  "work": [
-    {
-      "company": "Infiniti Software",
-      "position": "Software Engineer (Python / AI / Data Analytics)",
-      "website": "",
-      "startDate": "2024-10-01",
-      "endDate": "Present",
-      "summary": "Delivered end-to-end AI solutions using Python, TensorFlow, PyTorch, and YOLOv5/OpenCV for ML/DL and computer vision tasks, achieving up to 92% model accuracy and 80% task automation. Engineered scalable data pipelines and built real-time dashboards with Tableau and Power BI, improving data accessibility and reducing processing time by 60%.",
-      "highlights": []
-    },
-    {
-      "company": "Airclass",
-      "position": "Coding Tutor",
-      "website": "",
-      "startDate": "2020-01-01",
-      "endDate": "2025-07-01",
-      "summary": "Instructed over 100+ students in Python programming and foundational AI concepts through interactive, project-based learning. Coached students in building real-world applications using PyGame and Turtle, fostering creativity and practical problem-solving skills.",
-      "highlights": []
-    },
-    {
-      "company": "Riphah International Colleges & University",
-      "position": "Associate Researcher",
-      "website": "",
-      "startDate": "2023-10-01",
-      "endDate": "2024-10-31",
-      "summary": "Led applied AI research in Computer Vision and Convolutional Neural Networks (CNNs) for precision agriculture, designing models tailored for crop classification and yield prediction. Achieved 99.7% training accuracy using optimized CNN architectures, significantly enhancing model performance on agricultural datasets.",
-      "highlights": []
-    },
-    {
-      "company": "Optemastech",
-      "position": "AI Engineer",
-      "website": "",
-      "startDate": "2021-09-01",
-      "endDate": "2023-10-01",
-      "summary": "Led the development of a 3D medical image segmentation pipeline using U-Net architecture with TensorFlow, achieving precise region mapping and reducing diagnostic processing time. Optimized computational efficiency and resource usage by 12% across multiple computer vision projects, leveraging tools such as OpenCV, Keras, and CUDA-enabled acceleration.",
-      "highlights": []
-    },
-    {
-      "company": "Bright Network, UK",
-      "position": "Technology Intern",
-      "website": "",
-      "startDate": "2020-06-01",
-      "endDate": "2020-07-03",
-      "summary": "Designed and implemented a facial recognition system using Python and OpenCV, focusing on real-time detection and identity verification. Enhanced model performance by 90% through advanced feature extraction techniques, including facial landmark detection and histogram-based filtering.",
-      "highlights": []
-    }
-  ],
+  "work": [],
   "education": [
     {
-      "institution": "Government College University, Faisalabad",
-      "area": "Bachelor of Science in Computer Science (BSCS)",
+      "institution": "GitHub University",
+      "area": "Ph.D in Version Control Theory",
       "studyType": "",
-      "startDate": "2017-09-01",
-      "endDate": "2021-09-01",
-      "gpa": "3.23/4.0",
-      "courses": [
-        "Thesis: AI-Driven Privacy Preservation in Real-Time Video Surveillance"
-      ]
+      "startDate": "",
+      "endDate": "2018",
+      "gpa": null,
+      "courses": []
     },
     {
-      "institution": "Government Degree College, Lathianwala",
-      "area": "Intermediate (I.C.S) Computer Science",
+      "institution": "GitHub University",
+      "area": "M.S. in Jekyll",
       "studyType": "",
-      "startDate": "2015-09-01",
-      "endDate": "2017-08-30",
+      "startDate": "",
+      "endDate": "2014",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "GitHub University",
+      "area": "B.S. in GitHub",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "",
-      "keywords": [
-        "Python",
-        "MATLAB",
-        "SQL"
-      ]
-    },
-    {
-      "name": "Data Science & Machine Learning",
-      "level": "",
-      "keywords": [
-        "Numpy",
-        "Pandas",
-        "Scikit-learn",
-        "Scipy",
-        "OpenCV",
-        "TensorFlow",
-        "PyTorch",
-        "YOLOv3/v5",
-        "Mediapipe",
-        "U-Net",
-        "Transformers"
-      ]
-    },
-    {
-      "name": "Data Visualization",
-      "level": "",
-      "keywords": [
-        "Tableau",
-        "Power BI",
-        "Matplotlib",
-        "Seaborn",
-        "Plotly"
-      ]
-    },
-    {
-      "name": "Databases",
-      "level": "",
-      "keywords": [
-        "MySQL",
-        "PostgreSQL",
-        "SQLite",
-        "MongoDB"
-      ]
-    }
-  ],
+  "skills": [],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Virtual Memory Management",
-      "publisher": "Securing the Digital Realm: Advances in Hardware and Software Security, Communication, and Forensics",
-      "releaseDate": "2025",
-      "website": "",
-      "summary": "Contributors: Noor, Hajira; Khan, Hamayun; Din, Irfan Ud; Tarq, Muhammad Imran; Amin, Muhammad Nabeel; Fatima, Mehak"
+      "name": "Paper Title Number 1",
+      "publisher": "Journal 1",
+      "releaseDate": "2009-10-01",
+      "website": "http://academicpages.github.io/files/paper1.pdf",
+      "summary": "This paper is about the number 1. The number 2 is left for future work."
     },
     {
-      "name": "Efficient ML Technique for Brain Tumor Segmentation, and Detection, based on MRI Scans Using Convolutional Neural Networks (CNNs)",
-      "publisher": "Spectrum of Engineering Sciences",
-      "releaseDate": "2025",
-      "website": "",
-      "summary": "Contributors: Ayub, Nasir; Iqbal, Muhammad Waqas; Saleem, Muhammad Usman; Amin, Muhammad Nabeel; Imran, Osama; Khan, Hamayun"
+      "name": "Paper Title Number 2",
+      "publisher": "Journal 1",
+      "releaseDate": "2010-10-01",
+      "website": "http://academicpages.github.io/files/paper2.pdf",
+      "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
-      "name": "Reliable Federated learning (RDL) Assisted Intrusion detection and Classifications Approach Using (SSL/TLS) For Network Security",
-      "publisher": "Annual Methodological Archive Research Review",
-      "releaseDate": "2025",
-      "website": "https://amresearchreview.com/index.php/Journal/article/view/437",
-      "summary": "Contributors: Ayub, Nasir; Yaseen, Asad; Amin, Muhammad Nabeel; Rizwan, Syed Muhammad; Farooq, Irfan; Hussain, Muhammad Zunnurain"
+      "name": "Paper Title Number 3",
+      "publisher": "Journal 1",
+      "releaseDate": "2015-10-01",
+      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "summary": "This paper is about the number 3. The number 4 is left for future work."
     },
     {
-      "name": "Enhanced IoT Network Security for Network intrusion detection Model based on Machine Learning Technique",
-      "publisher": "Annual Methodological Archive Research Review",
-      "releaseDate": "2025-08-13",
-      "website": "https://doi.org/10.63075/0vcg0093",
-      "summary": "Contributors: Israr Ahmad; Muhammad Nabeel Amin; Khalid Hamid; Syed Muhammad Rizwan; Syed Asad Ali Naqvi"
-    },
-    {
-      "name": "Intelligence based Self-Healing Network Design: An Automated Incident Response System for Troubleshooting of IoT Security Breaches",
-      "publisher": "Annual Methodological Archive Research Review",
-      "releaseDate": "2025-08-12",
-      "website": "https://doi.org/10.63075/6dhhj119",
-      "summary": "Contributors: Muhammad Hamza Akhtar; Tayyba Jabeen; Rimsha Aziz; Muhammad Nabeel Amin; Syed Muhammad Rizwan; Khalid Hamid"
-    },
-    {
-      "name": "Anomaly Detection in IOT",
-      "publisher": "Contemporary Journal of Social Science Review",
-      "releaseDate": "2024",
-      "website": "",
-      "summary": "Contributors: Mehboob, Ammar; Zahra, Syeda Aqsa; Amin, Muhammad Nabeel; Shabbir, Hamza; Naqvi, Asad"
-    },
-    {
-      "name": "Deep Neural Networks Based Crop Classification in Agriculture Applications Using CropDeep Dataset",
-      "publisher": "Authorea Preprints",
-      "releaseDate": "2024",
-      "website": "",
-      "summary": "Contributors: Amin, Muhammad Nabeel; Memon, Sufyan Ali; Ali, Ahmed; others"
-    },
-    {
-      "name": "ENHANCED DEEP LEARNING BASED PRECISION AGRICULTURE: A DECISION SUPPORT SYSTEM FOR ENHANCING CROP RECOMMENDATION ACCURACY USING CONVOLUTIONAL NEURAL NETWORKS (CNN)",
-      "publisher": "Journal of Mechanics of Continua and Mathematical Sciences",
-      "releaseDate": "2024",
-      "website": "https://doi.org/10.26782/jmcms.2024.09.00014",
-      "summary": "Contributors: Amin, M.N.; Memon, S.; Ali, A.; Khan, H.; Joshi, R.; Rana, M.T.A.; Alsaawy, Y."
+      "name": "Paper Title Number 4",
+      "publisher": "GitHub Journal of Bugs",
+      "releaseDate": "2024-02-17",
+      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "summary": "This paper is about fixing template issue #693."
     }
   ],
   "presentations": [
