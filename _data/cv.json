@@ -28,7 +28,7 @@
         "username": "Nabeel70",
         "url": "https://github.com/Nabeel70"
       },
-	  {
+      {
         "network": "LinkedIn",
         "username": "nabeel70",
         "url": "https://www.linkedin.com/in/nabeel70/"
@@ -158,32 +158,60 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Virtual Memory Management",
+      "publisher": "Securing the Digital Realm: Advances in Hardware and Software Security, Communication, and Forensics",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Contributors: Noor, Hajira; Khan, Hamayun; Din, Irfan Ud; Tarq, Muhammad Imran; Amin, Muhammad Nabeel; Fatima, Mehak"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Efficient ML Technique for Brain Tumor Segmentation, and Detection, based on MRI Scans Using Convolutional Neural Networks (CNNs)",
+      "publisher": "Spectrum of Engineering Sciences",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Contributors: Ayub, Nasir; Iqbal, Muhammad Waqas; Saleem, Muhammad Usman; Amin, Muhammad Nabeel; Imran, Osama; Khan, Hamayun"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Reliable Federated learning (RDL) Assisted Intrusion detection and Classifications Approach Using (SSL/TLS) For Network Security",
+      "publisher": "Annual Methodological Archive Research Review",
+      "releaseDate": "2025",
+      "website": "https://amresearchreview.com/index.php/Journal/article/view/437",
+      "summary": "Contributors: Ayub, Nasir; Yaseen, Asad; Amin, Muhammad Nabeel; Rizwan, Syed Muhammad; Farooq, Irfan; Hussain, Muhammad Zunnurain"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Enhanced IoT Network Security for Network intrusion detection Model based on Machine Learning Technique",
+      "publisher": "Annual Methodological Archive Research Review",
+      "releaseDate": "2025-08-13",
+      "website": "https://doi.org/10.63075/0vcg0093",
+      "summary": "Contributors: Israr Ahmad; Muhammad Nabeel Amin; Khalid Hamid; Syed Muhammad Rizwan; Syed Asad Ali Naqvi"
+    },
+    {
+      "name": "Intelligence based Self-Healing Network Design: An Automated Incident Response System for Troubleshooting of IoT Security Breaches",
+      "publisher": "Annual Methodological Archive Research Review",
+      "releaseDate": "2025-08-12",
+      "website": "https://doi.org/10.63075/6dhhj119",
+      "summary": "Contributors: Muhammad Hamza Akhtar; Tayyba Jabeen; Rimsha Aziz; Muhammad Nabeel Amin; Syed Muhammad Rizwan; Khalid Hamid"
+    },
+    {
+      "name": "Anomaly Detection in IOT",
+      "publisher": "Contemporary Journal of Social Science Review",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "Contributors: Mehboob, Ammar; Zahra, Syeda Aqsa; Amin, Muhammad Nabeel; Shabbir, Hamza; Naqvi, Asad"
+    },
+    {
+      "name": "Deep Neural Networks Based Crop Classification in Agriculture Applications Using CropDeep Dataset",
+      "publisher": "Authorea Preprints",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "Contributors: Amin, Muhammad Nabeel; Memon, Sufyan Ali; Ali, Ahmed; others"
+    },
+    {
+      "name": "ENHANCED DEEP LEARNING BASED PRECISION AGRICULTURE: A DECISION SUPPORT SYSTEM FOR ENHANCING CROP RECOMMENDATION ACCURACY USING CONVOLUTIONAL NEURAL NETWORKS (CNN)",
+      "publisher": "Journal of Mechanics of Continua and Mathematical Sciences",
+      "releaseDate": "2024",
+      "website": "https://doi.org/10.26782/jmcms.2024.09.00014",
+      "summary": "Contributors: Amin, M.N.; Memon, S.; Ali, A.; Khan, H.; Joshi, R.; Rana, M.T.A.; Alsaawy, Y."
     }
   ],
   "presentations": [
